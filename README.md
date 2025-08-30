@@ -1,6 +1,6 @@
 <H4>NAME: SIVAKUMAR R </H4>
 <H4>REGISTER NO: 212223230209 </H4>
-<H4>DATE:
+
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.</br>
